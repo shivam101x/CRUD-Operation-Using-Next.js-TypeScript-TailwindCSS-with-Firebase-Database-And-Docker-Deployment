@@ -30,7 +30,7 @@ To run this project locally, follow these steps:
    Navigate to the project directory:
 bash
 
-cd simple-dashboard
+cd webapp
 Install the dependencies:
 bash
 
