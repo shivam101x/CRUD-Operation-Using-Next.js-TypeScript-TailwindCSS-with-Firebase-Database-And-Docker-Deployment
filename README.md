@@ -71,10 +71,8 @@ Make your changes.
 Commit your changes (git commit -am 'Add new feature').
 Push to the branch (git push origin feature/new-feature).
 Create a new pull request.
-License
-This project is licensed under the MIT License. See the LICENSE file for details.
 
-vbnet
+thank you....
 
 
 
